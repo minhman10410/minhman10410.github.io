@@ -1,0 +1,36 @@
+{
+	"vi": [
+		{
+			"name": "Web Development",
+			"code": "WD",
+			"description": "Web Development"
+		},
+		{
+			"name": "Software Development",
+			"code": "SD",
+			"description": "Software Development"
+		},
+		{
+			"name": "Mobile Development",
+			"code": "MD",
+			"description": "Mobile Development"
+		}
+	],
+	"en": [
+		{
+			"name": "Web Development",
+			"code": "WD",
+			"description": "Web Development"
+		},
+		{
+			"name": "Software Development",
+			"code": "SD",
+			"description": "Software Development"
+		},
+		{
+			"name": "Mobile Development",
+			"code": "MD",
+			"description": "Mobile Development"
+		}
+	]
+}

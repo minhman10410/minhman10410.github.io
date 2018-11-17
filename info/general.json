@@ -1,0 +1,124 @@
+{
+	"vi":{
+		"name": "",
+		"address": {
+			"address1" : "18 Bis, 13/3 Nguyễn Thị Minh Khai, Dakao, Hồ Chí Minh",
+			"address2" : "",
+			"city" : "",
+			"zipcode" : ""
+		},
+		"office" : {
+			"address1" : "18 Bis, 13/3 Nguyễn Thị Minh Khai, Dakao, Hồ Chí Minh",
+			"address2" : "",
+			"phone1" : "0969391317",
+			"phone2" : ""
+		},
+		"phone" : {
+			"phone1" : "0969319317",
+			"phone2" : "0967700656"
+		},
+		"email" : {
+			"email1" : "man.tran@mcmtechnologies.com",
+			"email2" : "minhman10410@gmail.com"
+		},
+		"about" : {
+			"shortDescription1" : "Xin chào, đây là công ty Công nghệ MCM",
+			"shortDescription2" : "",
+			"longDescription1" : "Xin chào, đây là nội dung giới thiệu chính của công ty Công nghệ MCM",
+			"longDescription2" : ""
+		},
+		"service": {
+			"list": [],
+			"shortDescription": "Đây là danh sách các dịch vụ của chúng tôi.",
+			"longDescription": ""
+		},
+		"member": [],
+		"description": {
+			"member": "Thông tin thành viên công ty",
+			"contact": "Thông tin liên hệ với chúng tôi",
+			"project": "Thông tin về các dự án",
+			"aboutUs": "Thông tin giới thiệu về công ty",
+			"blog": "Thông tin về blog",
+			"clientFeedBack": "Dưới đây là các phản hồi của khách hàng",
+			"latestNews": "Dưới đây là các tin tức nhất",
+			"latestPost": "Dưới đây là các bài viết mới nhất"
+		},
+		"title": {
+			"home": "Trang chủ",
+			"contact": "Liên hệ",
+			"service": "Dịch vụ",
+			"aboutUs": "Giới thiệu",
+			"project": "Dự án",
+			"member": "Thành viên",
+			"blog": "Blog",
+			"clientFeedBack": "Phản hồi của khách hàng",
+			"news": "Tin tức",
+			"post": "Bài viết",
+			"importantLink": "Trang quan trọng",
+			"mainOffice": "Văn phòng chính"
+		},
+		"contact" :[],
+		"socialNetwork": {}
+	},
+	"en":{
+		"name": "",
+		"address": {
+			"address1" : "18 Bis, 13/3 NTMK, Dakao, Ho Chi Minh",
+			"address2" : "",
+			"city" : "",
+			"zipcode" : ""
+		},
+		"office" : {
+			"address1" : "18 Bis, 13/3 NTMK, Dakao, Ho Chi Minh",
+			"address2" : "",
+			"phone1" : "0969391317",
+			"phone2" : ""
+		},
+		"phone" : {
+			"phone1" : "0969319317",
+			"phone2" : "0967700656"
+		},
+		"email" : {
+			"email1" : "man.tran@mcmtechnologies.com",
+			"email2" : "minhman10410@gmail.com"
+		},
+		"about" : {
+			"shortDescription1" : "This is short description for MCM Technologies Company",
+			"shortDescription2" : "",
+			"longDescription1" : "This is long description for MCM Technologies Company",
+			"longDescription2" : ""
+		},
+		"service": {
+			"list": [],
+			"shortDescription": "Our services are below",
+			"longDescription": ""
+		},
+		"member": [],
+		"description": {
+			"member": "Member information",
+			"contact": "Contact information",
+			"project": "Project information",
+			"aboutUs": "Company information",
+			"blog": "Blog information",
+			"clientFeedBack": "Client feedback below",
+			"latestNews": "Our latest news",
+			"latestPost": "Our latest post"
+		},
+		"title": {
+			"home": "Home",
+			"contact": "Contact",
+			"service": "Service",
+			"aboutUs": "About Us",
+			"project": "Project",
+			"member": "Member",
+			"blog": "Blog",
+			"clientFeedBack": "Client Feedback",
+			"news": "News",
+			"post": "Post",
+			"importantLink": "Important Link",
+			"mainOffice": "Main Office"
+		},
+		"contact" :[],
+		"socialNetwork": {}
+	}	
+}

@@ -1,0 +1,116 @@
+{
+	"vi": 
+	[
+		{
+			"name": "Tax Assessment",
+			"category": "Lập Trình WEB",
+			"projectDetail": {
+				"client": {
+					"name": "",
+					"address": "",
+					"dayComplete": ""
+				},
+				"year": "",
+				"yearDone": ""
+			},
+			"image": {
+				"url": "assets/img/project/1.jpg",
+				"name": ""
+			},
+			"url": "project-1.html"
+		},
+		{
+			"name": "Big Y",
+			"category": "Lập Trình WEB",
+			"projectDetail": {
+				"client": {
+					"name": "",
+					"address": "",
+					"dayComplete": ""
+				},
+				"year": "",
+				"yearDone": ""
+			},
+			"image": {
+				"url": "assets/img/project/2.jpg",
+				"name": ""
+			},
+			"url": "#"
+		},
+		{
+			"name": "United",
+			"category": "Lập Trình WEB",
+			"projectDetail": {
+				"client": {
+					"name": "",
+					"address": "",
+					"dayComplete": ""
+				},
+				"year": "",
+				"yearDone": ""
+			},
+			"image": {
+				"url": "assets/img/project/3.jpg",
+				"name": ""
+			},
+			"url": "#"
+		}
+	],
+	"en": 
+	[
+		{
+			"name": "Tax Assessment",
+			"category": "Web Development",
+			"projectDetail": {
+				"client": {
+					"name": "",
+					"address": "",
+					"dayComplete": ""
+				},
+				"year": "",
+				"yearDone": ""
+			},
+			"image": {
+				"url": "assets/img/project/1.jpg",
+				"name": ""
+			},
+			"url": "project-1.html"
+		},
+		{
+			"name": "Big Y",
+			"category": "Web Development",
+			"projectDetail": {
+				"client": {
+					"name": "",
+					"address": "",
+					"dayComplete": ""
+				},
+				"year": "",
+				"yearDone": ""
+			},
+			"image": {
+				"url": "assets/img/project/2.jpg",
+				"name": ""
+			},
+			"url": "#"
+		},
+		{
+			"name": "United",
+			"category": "Web Development",
+			"projectDetail": {
+				"client": {
+					"name": "",
+					"address": "",
+					"dayComplete": ""
+				},
+				"year": "",
+				"yearDone": ""
+			},
+			"image": {
+				"url": "assets/img/project/3.jpg",
+				"name": ""
+			},
+			"url": "#"
+		}
+	]
+}

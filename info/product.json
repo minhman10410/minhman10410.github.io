@@ -1,0 +1,34 @@
+{
+	"vi": [
+		{
+			"name": "Big Y",
+			"category": "Web Development",
+			"imgURL": "",
+			"shortDescription1": "Web Development",
+			"shortDescription2": "",
+			"longDescription1": "",
+			"longDescription2": "",
+			"detail": {
+				"client": "",
+				"address": "",
+				"year": ""
+			}
+		}
+	],
+	"en": [
+		{
+			"name": "Big Y",
+			"category": "Web Development",
+			"imgURL": "",
+			"shortDescription1": "Web Development",
+			"shortDescription2": "",
+			"longDescription1": "",
+			"longDescription2": "",
+			"detail": {
+				"client": "",
+				"address": "",
+				"year": ""
+			}
+		}
+	]
+}

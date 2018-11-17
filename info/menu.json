@@ -1,0 +1,69 @@
+{
+	"vi": [{
+			"name": "TRANG CHỦ",
+			"id":"",
+			"url": "index.html"
+		},
+		{
+			"name": "GIỚI THIỆU",
+			"id":"",
+			"url": "about.html"
+		},
+		{
+			"name": "DỊCH VỤ",
+			"id":"service",
+			"sub": [],
+			"url": "service.html"
+		},
+		{
+			"name": "DỰ ÁN",
+			"id":"project",
+			"sub": [],
+			"url": "project.html"
+		},
+		{
+			"name": "THÀNH VIÊN",
+			"id":"member",
+			"url": "team.html"
+		},
+		{
+			"name": "LIÊN HỆ",
+			"id":"",
+			"url": "contact.html"
+		}
+	],
+	"en": [{
+			"name": "HOME",
+			"id":"",
+			"url": "index.html"
+		},
+		{
+			"name": "ABOUT",
+			"id":"",
+			"url": "about.html"
+		},
+		{
+			"name": "SERVICE",
+			"id":"service",
+			"sub": [],
+			"url": "service.html"
+		},
+		{
+			"name": "PROJECT",
+			"id":"project",
+			"sub": [],
+			"url": "project.html"
+		},
+		{
+			"name": "MEMBER",
+			"id":"member",
+			"sub": [],
+			"url": "team.html"
+		},
+		{
+			"name": "CONTACT US",
+			"id":"",
+			"url": "contact.html"
+		}
+	]
+}
